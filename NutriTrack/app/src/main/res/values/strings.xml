@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_food_intake_questionnaire_screen">FoodIntakeQuestionnaireScreen
+    </string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insight_screen">InsightScreen</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_settings_screen">SettingsScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_clinician_screen">ClinicianScreen</string>
+    <string name="title_activity_clinician_login_screen">ClinicianLoginScreen</string>
+
+    <string name="label_prompt">Prompt</string>
+    <string name="pattern_placeholder">(Ready to analyze nutrition data patterns)</string>
+    <string name="results_placeholder">(Message will appear here)</string>
+    <string name="action_go">Go</string>
+</resources>
