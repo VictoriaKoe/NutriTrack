@@ -65,7 +65,6 @@ class WelcomeScreen : ComponentActivity() {
     }
 }
 
-// Gemini API KEY: AIzaSyBEiQxF4bLJzMD-hVAle1q3537cL0IYP7k
 /**
  * Composable function representing welcome screen.
  * It is a entry point of NutriTrack app with logo and disclaimer text.
